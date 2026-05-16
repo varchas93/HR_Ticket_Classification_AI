@@ -142,4 +142,4 @@ if st.button("Analyze"):
     if detected_days:
         st.write(", ".join(detected_days))
     else:
-        st.write("Not Found")0])
+        st.write("Not Found")
